@@ -1,0 +1,17 @@
+# C / C++
+*.o
+*.out
+*.exe
+build/
+
+# Java
+*.class
+target/
+out/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
